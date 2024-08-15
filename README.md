@@ -1,40 +1,53 @@
-Aprendizado de Python Básico 🐍
-Bem-vindo ao repositório Aprendizado de Python Básico! Este projeto foi criado para ajudar iniciantes a aprender os fundamentos da programação com Python.
+# Aprendizado de Python Básico 🐍
 
-Visão Geral
+Bem-vindo ao repositório **Aprendizado de Python Básico**! Este projeto foi criado para ajudar iniciantes a aprender os fundamentos da programação com Python.
+
+## Visão Geral
+
 Este repositório contém materiais de estudo, exemplos de código e exercícios voltados para o aprendizado de Python, uma das linguagens de programação mais populares e versáteis da atualidade.
 
 O objetivo é fornecer uma base sólida para que você possa entender e começar a escrever seus próprios programas em Python.
 
-O que você vai aprender?
-Sintaxe básica da linguagem
-Tipos de dados
-Operadores aritméticos e lógicos
-Controle de fluxo (condicionais e loops)
-Funções e módulos
+## O que você vai aprender?
 
-Pré-requisitos
-Para acompanhar este repositório, você precisará ter o Python instalado em sua máquina. Você pode fazer o download do Python aqui: https://www.python.org/downloads/
+- Instalação e configuração do ambiente Python
+- Sintaxe básica da linguagem
+- Tipos de dados
+- Operadores aritméticos e lógicos
+- Controle de fluxo (condicionais e loops)
+- Funções e módulos
+- Manipulação de arquivos
+- Trabalhando com listas, dicionários e outras coleções
+- Noções básicas sobre classes e objetos
 
-Além disso, é recomendado ter um editor de código de sua preferência, como o VSCode ou outro.
+## Pré-requisitos
 
-Como usar este repositório?
-Clone o repositório:
+Para acompanhar este repositório, você precisará ter o Python instalado em sua máquina. Você pode fazer o download do Python [aqui](https://www.python.org/downloads/).
 
-Copiar código
-git clone https://github.com/francielesevilha/learningPYTHON
-cd learningPYTHON 
+Além disso, é recomendado ter um editor de código de sua preferência, como o [VSCode](https://code.visualstudio.com/).
 
-Navegue pelos diretórios:
+## Como usar este repositório?
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/francielesevilha/learningPYTHON
+   cd learningPYTHON
+
+
+## Navegue pelos diretórios:
+
 Cada diretório contém exemplos de código, explicações e exercícios relacionados a um tópico específico. Recomendamos seguir a ordem dos diretórios, pois os tópicos são organizados de forma progressiva.
 
-Execute os exemplos:
+## Execute os exemplos:
+
 Abra os exemplos de código em seu editor e execute-os para ver o que acontece. Tente modificar os códigos para ver como pequenas mudanças podem alterar o comportamento do programa.
 
-Resolva os exercícios:
+## Resolva os exercícios:
+
 Após estudar os exemplos, teste seus conhecimentos resolvendo os exercícios propostos. Eles vão ajudar a fixar o conteúdo.
 
-Contribuindo
+## Contribuindo
 Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões para melhorar o repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Obrigada por visitar!
+## Obrigada por visitar!
