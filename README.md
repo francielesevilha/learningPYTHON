@@ -10,15 +10,11 @@ O objetivo é fornecer uma base sólida para que você possa entender e começar
 
 ## O que você vai aprender?
 
-- Instalação e configuração do ambiente Python
 - Sintaxe básica da linguagem
 - Tipos de dados
 - Operadores aritméticos e lógicos
 - Controle de fluxo (condicionais e loops)
 - Funções e módulos
-- Manipulação de arquivos
-- Trabalhando com listas, dicionários e outras coleções
-- Noções básicas sobre classes e objetos
 
 ## Pré-requisitos
 
